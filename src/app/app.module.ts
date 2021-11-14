@@ -13,6 +13,7 @@ import { AuthComponent } from './auth/auth.component';
 import { AppareilViewComponent } from './appareil-view/appareil-view.component';
 import { SauvegardeComponent } from './sauvegarde/sauvegarde.component';
 import { AccueilComponent } from './accueil/accueil.component';
+import { PageconservationComponent } from './page/pageconservation/pageconservation.component';
 
 
 
@@ -28,6 +29,7 @@ import { AccueilComponent } from './accueil/accueil.component';
     AppareilViewComponent,
     SauvegardeComponent,
     AccueilComponent,
+    PageconservationComponent,
   ],
   imports: [
     BrowserModule,
